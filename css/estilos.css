@@ -40,9 +40,11 @@ h4 {
   background: #dabf00;
 }
 li {
-  font-size: 20px;
+  font-family: "Chango", cursive;
+  font-size: 30px;
   padding: 10px;
   background: #7e6f00;
+  color: #005bee;
 }
 a {
   text-decoration: none;
